@@ -1,0 +1,24 @@
+{
+  "_fv": 10,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "coioked_apple",
+    "customModelName": "Normal",
+    "name": "Baked Apple",
+    "specialInfo": [
+      "mmm baked apple~"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 16,
+    "nutritionalValue": 5,
+    "saturation": 0.4,
+    "eatingSpeed": 18,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

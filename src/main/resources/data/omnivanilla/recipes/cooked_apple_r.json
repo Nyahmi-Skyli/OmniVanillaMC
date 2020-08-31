@@ -1,0 +1,12 @@
+{
+  "group": "omnivanilla",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 45,
+  "ingredient": {
+    "item": "minecraft:apple"
+  },
+  "result": {
+    "item": "omnivanilla:cooked_apple"
+  }
+}

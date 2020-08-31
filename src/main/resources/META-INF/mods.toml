@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="omnivanilla"
+version="0.0.1"
+displayName="OmniVanilla"
+credits="Fun"
+displayURL="https://doesnotexsist.net"
+authors="Nyahmi, MagicalFelix"
+description='''
+Vanilla Enchancements +
+'''
+
+[[dependencies.omnivanilla]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

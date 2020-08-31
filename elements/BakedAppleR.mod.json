@@ -1,0 +1,20 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 80,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Items.APPLE"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:CookedApple"
+    },
+    "name": "baked_apple_r",
+    "namespace": "mod"
+  }
+}

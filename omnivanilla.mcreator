@@ -1,0 +1,77 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CookedApple",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_apple"
+    },
+    {
+      "name": "CookedAppleR",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cooked_apple_r"
+    },
+    {
+      "name": "BakedAppleR",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "baked_apple_r"
+    },
+    {
+      "name": "AlloyFurnace",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alloy_furnace"
+    },
+    {
+      "name": "AlloyFurnaceGUI",
+      "type": "gui",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "alloy_furnace_gui"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.omnivanilla.cooked_apple": "Baked Apple",
+      "block.omnivanilla.alloy_furnace": "Alloy Furnace"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "omnivanilla",
+    "modName": "OmniVanilla",
+    "version": "0.0.1",
+    "description": "Vanilla Enchancements +",
+    "author": "Nyahmi, MagicalFelix",
+    "websiteURL": "https://doesnotexsist.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Fun",
+    "modElementsPackage": "net.nyahmi.omnivanilla",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
