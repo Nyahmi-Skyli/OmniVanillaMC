@@ -29,30 +29,156 @@
       "registry_name": "baked_apple_r"
     },
     {
-      "name": "AlloyFurnace",
-      "type": "block",
+      "name": "SteelIngot",
+      "type": "item",
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "alloy_furnace"
+      "registry_name": "steel_ingot"
     },
     {
-      "name": "AlloyFurnaceGUI",
-      "type": "gui",
+      "name": "IronDust",
+      "type": "item",
       "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "alloy_furnace_gui"
+      "registry_name": "iron_dust"
+    },
+    {
+      "name": "SteelDust",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_dust"
+    },
+    {
+      "name": "CarbonDust",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "carbon_dust"
+    },
+    {
+      "name": "CoalToCarbonDust",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coal_to_carbon_dust"
+    },
+    {
+      "name": "CharcoalToCarbonDust",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "charcoal_to_carbon_dust"
+    },
+    {
+      "name": "IronToIronDust",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_to_iron_dust"
+    },
+    {
+      "name": "SteelIngotSmelt",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_ingot_smelt"
+    },
+    {
+      "name": "SteelDustMix",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_dust_mix"
+    },
+    {
+      "name": "ChocolateApple",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_apple"
+    },
+    {
+      "name": "Chocolate",
+      "type": "fluid",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate"
+    },
+    {
+      "name": "MysticiteOre",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mysticite_ore"
+    },
+    {
+      "name": "MysticiteGem",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mysticite_gem"
+    },
+    {
+      "name": "SteelPickaxe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_pickaxe"
+    },
+    {
+      "name": "SteelPickaxeR",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "steel_pickaxe_r"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.omnivanilla.mysticite_ore": "Mysticite Ore",
+      "item.omnivanilla.steel_dust": "Steel Dust",
       "item.omnivanilla.cooked_apple": "Baked Apple",
-      "block.omnivanilla.alloy_furnace": "Alloy Furnace"
+      "item.omnivanilla.mysticite_gem": "Mysticite Gem",
+      "item.omnivanilla.chocolate_bucket": "Chocolate Bucket",
+      "item.omnivanilla.steel_ingot": "Steel Ingot",
+      "item.omnivanilla.chocolate_apple": "Chocolate Apple",
+      "item.omnivanilla.steel_pickaxe": "Steel Pickaxe",
+      "item.omnivanilla.iron_dust": "Iron Dust",
+      "item.omnivanilla.carbon_dust": "Carbon Dust",
+      "fluid.chocolate": "Chocolate"
     }
   },
   "workspaceSettings": {

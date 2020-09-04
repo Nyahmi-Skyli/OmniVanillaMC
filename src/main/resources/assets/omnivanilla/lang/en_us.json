@@ -1,4 +1,13 @@
 {
+  "block.omnivanilla.mysticite_ore": "Mysticite Ore",
+  "item.omnivanilla.steel_dust": "Steel Dust",
   "item.omnivanilla.cooked_apple": "Baked Apple",
-  "block.omnivanilla.alloy_furnace": "Alloy Furnace"
+  "item.omnivanilla.mysticite_gem": "Mysticite Gem",
+  "item.omnivanilla.chocolate_bucket": "Chocolate Bucket",
+  "item.omnivanilla.steel_ingot": "Steel Ingot",
+  "item.omnivanilla.chocolate_apple": "Chocolate Apple",
+  "item.omnivanilla.steel_pickaxe": "Steel Pickaxe",
+  "item.omnivanilla.iron_dust": "Iron Dust",
+  "item.omnivanilla.carbon_dust": "Carbon Dust",
+  "fluid.chocolate": "Chocolate"
 }

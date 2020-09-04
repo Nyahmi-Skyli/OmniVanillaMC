@@ -1,0 +1,12 @@
+{
+  "group": "omnivanilla",
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:coal"
+  },
+  "result": {
+    "item": "omnivanilla:carbon_dust"
+  }
+}

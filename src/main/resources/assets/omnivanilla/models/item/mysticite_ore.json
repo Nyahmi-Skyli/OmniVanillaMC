@@ -1,5 +1,5 @@
 {
-  "parent": "omnivanilla:block/alloy_furnace",
+  "parent": "omnivanilla:block/mysticite_ore",
   "display": {
     "thirdperson": {
       "rotation": [

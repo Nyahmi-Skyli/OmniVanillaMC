@@ -1,0 +1,16 @@
+{
+  "group": "omnivanilla",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "omnivanilla:iron_dust"
+    },
+    {
+      "item": "omnivanilla:carbon_dust"
+    }
+  ],
+  "result": {
+    "item": "omnivanilla:steel_dust",
+    "count": 1
+  }
+}

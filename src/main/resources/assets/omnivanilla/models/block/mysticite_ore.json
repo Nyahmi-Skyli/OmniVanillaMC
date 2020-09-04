@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "omnivanilla:blocks/mysticite_ore",
+    "up": "omnivanilla:blocks/mysticite_ore",
+    "north": "omnivanilla:blocks/mysticite_ore",
+    "east": "omnivanilla:blocks/mysticite_ore",
+    "south": "omnivanilla:blocks/mysticite_ore",
+    "west": "omnivanilla:blocks/mysticite_ore",
+    "particle": "omnivanilla:blocks/mysticite_ore"
+  }
+}
